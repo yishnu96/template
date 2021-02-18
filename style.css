@@ -1,0 +1,110 @@
+header {
+    padding: 0 3rem;
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.text-area {
+    padding: 0 10rem;
+}
+
+.img-responsive {
+    height: 50vh;
+    width: 90vh;
+}
+
+
+
+
+.donattion {
+    width: 20%;
+    margin: 0 auto;
+}
+
+.list-nav {
+    width: 70%;
+}
+
+
+.image-area {
+    padding: 0 3rem;
+    display: flex;
+}
+
+.image-area img {
+    flex: 1;
+    padding: 1rem;
+
+}
+
+#logo {
+    width: 15rem;
+    height: 2rem;
+}
+
+footer {
+    display: flex;
+    width: 100%;
+    height: 3rem;
+    position: absolute;
+}
+
+
+.heart {
+    top: 2;
+    display: inline-block;
+    background-color: #dc3545;
+    
+    color: #fff;
+
+}
+
+.heart span {
+    position: absolute;
+    top : 30;
+    left: 58;
+
+}
+
+
+/* navbar    */
+
+
+.no-list-style {
+    list-style: none;
+}
+
+/* .no-list-style li {
+    font-weight: 100;
+} */
+
+.no-list-style li span {
+    list-style: none;
+    color: white;
+    text-decoration: none;
+}
+
+.horizontal-list {
+    padding-left: 0px;
+    margin: 0px;
+}
+
+.horizontal-list li {
+    display: inline-block;
+    margin: 0px 8px 8px 0px;
+    text-align: center;
+}
+
+.line {
+    width: 15vh;
+    border-top: .2rem solid #dc3545;
+    margin : 1.2rem auto;
+
+}
+
